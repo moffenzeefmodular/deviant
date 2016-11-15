@@ -6,6 +6,6 @@
 
 ![Deviant Logo]()
 
-[Website](http://moffenzeefmodular.com)
+[WEBSITE](http://moffenzeefmodular.com/deviant)
 
 [CLICK HERE FOR HELP](https://github.com/moffenzeefmodular/deviant/wiki)
